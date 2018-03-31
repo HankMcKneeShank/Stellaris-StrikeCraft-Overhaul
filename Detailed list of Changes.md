@@ -1,4 +1,4 @@
-#Detailed list of Changes I made
+# Detailed list of Changes I made
 
 ### /common/: 
 
@@ -37,5 +37,25 @@
  * All Vessels now have a **engagement range** of 300 ( __returnrange__ @ 310)
  * Fighters will **charge at the enemy** like Strike Craft
 
-#### /technology/:     
+#### /technology/:
+ * Starter Vessel Technology __(Carrier Operations)__ now unlocks fighters Tier 1 as well
+ * Carrier Operations is now a __Tier 2 Tech__ with the **cost** of 1500 and **weight** of 85
+ 
+ * **_Strikecraft Technology adjusted to_** : 
+  * Tier 2 is now a __Tier 3 Tech__ with the **cost** of 6000 and **weight** of 50
+  * Tier 3 is now a __Tier 4 Tech__ with the **cost** of 10000 and **weight** of 40
+ 
+ * **_Fighter Technology costs are_** :
+  * Tier 2 is a __Tier 2 Tech__ with the **cost** of 2500 and **weight** of 70
+  * Tier 3 is a __Tier 4 Tech__ with the **cost** of 8000 and **weight** of 45
+  * Voidcraft AI should prefer to tech into this Technology , just like they do in Strikecraft
+  
+### /gfx/:
+ * Added new icons for the Fighters
+ 
+### /interface/:
+ * Added fighter GFX information
+ 
+### /localisation/:
+ * Added descriptions for the Fighters itself and their Techs
        
