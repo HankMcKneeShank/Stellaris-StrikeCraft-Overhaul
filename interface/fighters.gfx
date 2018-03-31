@@ -1,0 +1,18 @@
+spriteTypes = {
+
+	### SHIP PARTS ###
+	spriteType = {
+		name = "GFX_ship_part_laser_99"
+		texturefile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_fighter_1.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ship_part_strike_craft_longrangebombers_99"
+		texturefile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_fighter_2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ship_part_strike_craft_longrangebombers_100"
+		texturefile = "gfx/interface/icons/ship_parts/ship_part_strike_craft_fighter_3.dds"
+	}
+}

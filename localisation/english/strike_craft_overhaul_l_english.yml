@@ -1,0 +1,30 @@
+l_english:
+
+########################################
+###     General Hangar Technology    ###
+########################################
+
+LARGE_SCOUT_HANGAR_1: "Scout"
+LARGE_SCOUT_HANGAR_1_desc: "Fighter that stays around your ship and PDs"
+
+########################################
+###        Bomber Technology         ###
+########################################
+
+STRIKE_CRAFT_HANGAR_1_: "Basic Strike Craft"
+STRIKE_CRAFT_HANGAR_1_desc: "Just a Basic Bomber"
+STRIKE_CRAFT_HANGAR_2: "Improved Strike Craft"
+STRIKE_CRAFT_HANGAR_2_desc: "The next generation of strike craft, featuring improved avionics, better handling characteristics and more powerful armaments."
+STRIKE_CRAFT_HANGAR_3: "Advanced Strike Craft"
+STRIKE_CRAFT_HANGAR_3_desc: "A further refinement in strike craft design, these advanced strike craft are a pilot's dream. Their performance far exceeds that of previous models."
+
+########################################
+###       Fighter Technology         ###
+########################################
+
+LARGE_FIGHTERS_HANGAR_1: "Basic Fighter"
+LARGE_FIGHTERS_HANGAR_1_desc: "A peashooter at best"
+LARGE_FIGHTERS_HANGAR_2: "Improved Fighter"
+LARGE_FIGHTERS_HANGAR_2_desc: "Now with 40% more Guns!"
+LARGE_FIGHTERS_HANGAR_3: "Advanced Fighter"
+LARGE_FIGHTERS_HANGAR_3_desc: "Do a Barrel Roll!"
