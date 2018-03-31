@@ -1,8 +1,10 @@
 #Detailed list of Changes I made
 
 ### /common/: 
+
 #### /component_sets/: 
   * Added needed GFX information into the <00_strike_craft.txt>
+
 #### /component_templates/:
   * 00_strike_craft.txt :
     * Improved readability and fast access to new variables
@@ -21,9 +23,19 @@
         * Tier 2 can be compared to a (kinetic battery + ~ 8% damage) @ vesselcount of 10
         * Tier 3 can be compared to a (Kinetic Artillery + ~ 10% damage) @ vesselcount of 10
         !! **(Also compareable to other L slots , K.A. is just used as an example)** !!
+    
     #### Fighters:
       * **Acceleration** increased from 0.5 to 1
       * **Damage** values as follows:
-       * Tier 1 is compareable to 4x 
-        
+       * Tier 1 is compareable to 4x Flak Battery @ vesselcount of 8
+       * Tier 2 is compareable to 4x Flak Cannons @ vesselcount of 7-8
+       * Tier 2 is compareable to 4x Flak Artillery @ vesselcount of 8
+      * **Attackable Targets** are as follows : Starbases , Fleet , Missles , Strikecraft , Fighters
+
+#### /ship_behaviors/:
+ * **Disclaimer** Vessels engage only once fleet is in a Fight , thus cannot be sent out across the galaxy! I tried :C
+ * All Vessels now have a **engagement range** of 300 ( __returnrange__ @ 310)
+ * Fighters will **charge at the enemy** like Strike Craft
+
+#### /technology/:     
        
