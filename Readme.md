@@ -30,7 +30,7 @@
       * **Damage** values as follows:
        * Tier 1 is compareable to 4x Flak Battery @ vesselcount of 8
        * Tier 2 is compareable to 4x Flak Cannons @ vesselcount of 7-8
-       * Tier 2 is compareable to 4x Flak Artillery @ vesselcount of 8
+       * Tier 3 is compareable to 4x Flak Artillery @ vesselcount of 8
       * **Attackable Targets** are as follows : Starbases , Fleet , Missles , Strikecraft , Fighters
 
 #### /ship_behaviors/:
