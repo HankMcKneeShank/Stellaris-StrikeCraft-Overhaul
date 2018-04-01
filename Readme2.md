@@ -8,7 +8,8 @@
 #### /component_templates/:
   * 00_strike_craft.txt :
     * Improved readability and fast access to new variables
-    * Increased **attackrange** of bombers from 8 to 10 / of fighters from 8 to 8.5
+    * Increased **regeneration** from 0.13 to 0.1429 ( Now its actual 8 ingame days per new ship )
+    * Increased **attackrange** of bombers from 8 to 10 / of fighters from 8 to 10
     * Decreased fighter **launch time** from 1.5 to 1.0
     * Increased fighter **speed** from 300/350/400 to 350/400/450
     * Increased **rotationspeed** of bombers from 0.1 to 0.2 _(Huge difference in performance!)_ / of fighters from 0.1 to 0.215
@@ -16,7 +17,7 @@
     * Increased **Vessel Count** from 8 to 10
     
     #### Strike Craft:
-       * **Acceleration** increased from 0.5 to 1
+       * **Acceleration** increased from 0.5 to 0.85
        * **GFX** for all Vessels updated (Hopefully you will see it as improvement)
        * **Damage** adjusted , Tier1/Tier2/Tier3 are now semi-equivalent in performance L slots :
         * Tier 1 can be compared to a (kinetic battery - ~ 25% damage) @ vesselcount of 10
