@@ -9,15 +9,17 @@
   * 00_strike_craft.txt :
     * Improved readability and fast access to new variables
     * Increased **regeneration** from 0.13 to 0.1429 ( Now its actual 8 ingame days per new ship )
-    * Increased **attackrange** of bombers from 8 to 10 / of fighters from 8 to 10
+    * Increased **attackrange** of bombers from 8 to 15 / of fighters from 8 to 15
     * Decreased fighter **launch time** from 1.5 to 1.0
-    * Increased fighter **speed** from 300/350/400 to 350/400/450
-    * Increased **rotationspeed** of bombers from 0.1 to 0.2 _(Huge difference in performance!)_ / of fighters from 0.1 to 0.215
-    * Increased **attackspeed** of bombers from 2 to 3.26 / of fighters from 2 to 0.5
-    * Increased **Vessel Count** from 8 to 10
+    * Increased Bomber **speed** from 300/350/400 to 375/425/475
+    * Increased fighter **speed** from 300/350/400 to 425/475/525
+    * Increased **rotationspeed** of bombers from 0.1 to 0.25 _(Huge difference in performance!)_ / of fighters from 0.1 to 0.215
+    * Changed **attackspeed** of bombers from 2 to 4 / of fighters from 2 to 1
+    * Increased **Bomber Count** from 8 to 12
+    * Increased **Fighter Counte** from 8 to 10
     
     #### Strike Craft:
-       * **Acceleration** increased from 0.5 to 0.85
+       * **Acceleration** increased from 0.5 to 1
        * **GFX** for all Vessels updated (Hopefully you will see it as improvement)
        * **Damage** adjusted , Tier1/Tier2/Tier3 are now semi-equivalent in performance L slots :
         * Tier 1 can be compared to a (kinetic battery - ~ 25% damage) @ vesselcount of 10
@@ -28,15 +30,15 @@
     #### Fighters:
       * **Acceleration** increased from 0.5 to 1
       * **Damage** values as follows:
-       * Tier 1 is compareable to 4x Flak Battery @ vesselcount of 8
-       * Tier 2 is compareable to 4x Flak Cannons @ vesselcount of 7-8
-       * Tier 3 is compareable to 4x Flak Artillery @ vesselcount of 8
-      * **Attackable Targets** are as follows : Starbases , Fleet , Missles , Strikecraft , Fighters
+       * Tier 1 fighter kills a T1 bomber in about 2 Ingame days
+       * Tier 2 fighter kills a T2 bomber in about 2 Ingame Days
+       * Tier 3 fighter kills a T3 Bomber in about 2-3 Ingame Days
+      * **Attackable Targets** for fighters are as follows : Starbases , Fleet , Missles , Strikecraft , Fighters
 
 #### /ship_behaviors/:
  * **Disclaimer** Vessels engage only once fleet is in a Fight , thus cannot be sent out across the galaxy! I tried :C
  * All Vessels now have a **engagement range** of 300 ( __returnrange__ @ 310)
- * Fighters will **charge at the enemy** like Strike Craft
+ * Fighters will **charge into the middle of combat** and form a defensive poke lineup
 
 #### /technology/:
  * Starter Vessel Technology __(Carrier Operations)__ now unlocks fighters Tier 1 as well
