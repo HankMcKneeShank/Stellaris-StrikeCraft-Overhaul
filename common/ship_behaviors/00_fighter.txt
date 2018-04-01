@@ -1,12 +1,32 @@
-@engagement_range = 300
-@return_range = 310
+@engagement_range = 130
+@return_range = 135
 
 ship_behavior = {
-	name = "fighters_behavior"
+	name = "fighters1_behavior"
 	preferred_attack_range = max
-	formation_distance = @engagement_range
-	return_to_formation_distance = @return_range
+	formation_distance = 50
+	return_to_formation_distance = 20
 	
 	attack_move_pattern = charge
+	passive_move_pattern = charge
+}
+
+ship_behavior = {
+	name = "fighters2_behavior"
+	preferred_attack_range = max
+	formation_distance = 60
+	return_to_formation_distance = 30
+	
+	attack_move_pattern = stay_at_range
+	passive_move_pattern = charge
+}
+
+ship_behavior = {
+	name = "fighters3_behavior"
+	preferred_attack_range = max
+	formation_distance = 65
+	return_to_formation_distance = 25
+	
+	attack_move_pattern = stay_at_range
 	passive_move_pattern = charge
 }

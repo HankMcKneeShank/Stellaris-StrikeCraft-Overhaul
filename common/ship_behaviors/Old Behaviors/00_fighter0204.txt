@@ -1,0 +1,12 @@
+@engagement_range = 300
+@return_range = 310
+
+ship_behavior = {
+	name = "fighters_behavior"
+	preferred_attack_range = max
+	formation_distance = @engagement_range
+	return_to_formation_distance = @return_range
+	
+	attack_move_pattern = charge
+	passive_move_pattern = charge
+}
