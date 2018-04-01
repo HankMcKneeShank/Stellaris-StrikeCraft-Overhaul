@@ -30,9 +30,9 @@
     #### Fighters:
       * **Acceleration** increased from 0.5 to 1
       * **Damage** values as follows:
-       * Tier 1 fighter kills a T1 bomber in about 2 Ingame days
-       * Tier 2 fighter kills a T2 bomber in about 2 Ingame Days
-       * Tier 3 fighter kills a T3 Bomber in about 2-3 Ingame Days
+            * Tier 1 fighter kills a T1 bomber in about 2 Ingame days
+            * Tier 2 fighter kills a T2 bomber in about 2 Ingame Days
+            * Tier 3 fighter kills a T3 Bomber in about 2-3 Ingame Days
       * **Attackable Targets** for fighters are as follows : Starbases , Fleet , Missles , Strikecraft , Fighters
 
 #### /ship_behaviors/:
