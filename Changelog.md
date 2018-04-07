@@ -21,3 +21,14 @@ Changelog:
   * Fighter damage has been __adjusted__
   * Bomber and fighter **attackrange increased** from 8 to 15
  
+* #### 07.04.2018 :
+ * Adjusted Fighter behavior for a more balanced PD enviroment
+ * Reduced Techcosts for Bombers and Fighters :
+  * ##### General (T stands for Tier) :
+   * Carrier Operations changed from T2 to T1 , costs changed from 1500 to 1000
+  * ##### Bombers :
+   * T2 : Changed from T3 tech to T2 , costs changed from 6000 to 2000
+   * T3 : Changed from T4 tech to T3 , costs changed from 10000 to 6000
+  * ##### Fighters :
+   * T2 : Stayed the same
+   * T3 : Changed from T4 Tech to T3 , costs changed from 8000 to 6000
